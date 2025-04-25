@@ -1,2 +1,2 @@
-# Project-C++-
+# Project-CPP
 My first repositary
